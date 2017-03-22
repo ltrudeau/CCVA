@@ -1,6 +1,6 @@
 <%-- 
-    Document   : Upcoming
-    Created on : Mar 15, 2017, 11:03:03 AM
+    Document   : Home
+    Created on : Mar 15, 2017, 10:52:39 AM
     Author     : cboyd04
 --%>
 
@@ -12,7 +12,7 @@
         <link href="../css/bootstrap.min.css" rel="stylesheet">
         <link href="../css/bootstrap-theme.min.css" rel="stylesheet">
          
-        <title>CCVA Upcoming Exhibitions</title>
+        <title>CCVA Home</title>
     </head>
     <body>
         <jsp:include page="../Header.jsp"/>
