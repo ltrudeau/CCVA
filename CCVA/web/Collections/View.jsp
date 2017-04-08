@@ -1,6 +1,6 @@
 <%-- 
-    Document   : GroupsAndClasses
-    Created on : Mar 15, 2017, 11:01:21 AM
+    Document   : View
+    Created on : Apr 8, 2017, 1:51:52 PM
     Author     : cboyd04
 --%>
 
@@ -12,7 +12,7 @@
         <link href="../css/bootstrap.css" rel="stylesheet">
         <link href="../css/bootstrap-theme.css" rel="stylesheet">
          
-        <title>CCVA Groups and Classes</title>
+        <title>View Image</title>
     </head>
     <body>
         <jsp:include page="../Header.jsp"/>

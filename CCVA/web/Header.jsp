@@ -1,4 +1,4 @@
-<nav class="navbar navbar-inverse">
+<nav class="navbar-fixed-top navbar navbar-inverse">
     <div class="container-fluid">
         <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header">
@@ -18,7 +18,7 @@
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Visit<span class="caret"></span></a>
                     <ul class="dropdown-menu">
                         <li><a href="../Visit/VisitHoursDirections.jsp">Hours and Directions</a></li>
-                        <li><a href="../Visit/GroupsClasses.jsp">Groups and Class Visits</a></li>                        
+                        <!--<li><a href="../Visit/GroupsClasses.jsp">Groups and Class Visits</a></li> -->                       
                         <li><a href="../Visit/SpecialNeeds.jsp">Visitors With Special Needs</a></li>                        
                     </ul>
                 </li>
